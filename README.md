@@ -40,3 +40,7 @@ Let's consider a simple example for a market maker trading bot in the cryptocurr
 5. If a seller executes a market order at $50,000, the bot buys from them at $49,950, making a profit of $50.
 
 It's important to note that market making involves risks, and the effectiveness of a market maker bot depends on various factors, including market conditions, competition from other traders, and the accuracy of its price forecasting mechanisms. Additionally, regulatory considerations and exchange-specific rules must be taken into account when deploying a market maker bot.
+
+Contact Me :
+Mail - arrayalgo@gmail.com, info@arrayalgo.one
+Website - https://www.algoarray.one

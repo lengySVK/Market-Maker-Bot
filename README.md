@@ -1,4 +1,5 @@
 Video Proof - https://www.youtube.com/watch?v=L-6rzvPco5k
+
 Another Video Proof - https://www.youtube.com/watch?v=BX8PZRHVz1M
 
 A market maker trading bot is a type of algorithmic trading strategy designed to provide liquidity in financial markets, including the cryptocurrency market. The primary goal of a market maker is to place buy and sell orders in the market continuously, with the intention of profiting from the bid-ask spread. The bid-ask spread is the difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask). By constantly quoting bid and ask prices, market makers contribute to market liquidity and facilitate smoother trading.
